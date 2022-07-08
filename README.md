@@ -5,9 +5,12 @@
 언젠가는 구글링을 하지 않고 코딩하게 되는 그 날을 기다려본다.. 🎊🎊🎊  
 7월에는 파이썬 공부를 좀 더하고, 홈페이지를 만들기를 다시 공부할 계획이다. 22.07.08
 
+<br>
+
 ## 1. Aiffel을 다니면서 과제 제출했던 것 정리 🏹
 ### [Aiffel](https://github.com/flowerJung/flowerJung.github.io/tree/main/Aiffel)
 
+<br>
 
 ## 2. Aiffel의 기업과제 - 강화학습 ⚖️
 ### [강화학습](https://github.com/flowerJung/flowerJung.github.io/tree/main/Reinforcement)
